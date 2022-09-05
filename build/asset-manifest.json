@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abhinaba12/React_to-do/static/css/main.76357304.css",
+    "main.js": "/Abhinaba12/React_to-do/static/js/main.f584eae4.js",
+    "index.html": "/Abhinaba12/React_to-do/index.html",
+    "main.76357304.css.map": "/Abhinaba12/React_to-do/static/css/main.76357304.css.map",
+    "main.f584eae4.js.map": "/Abhinaba12/React_to-do/static/js/main.f584eae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76357304.css",
+    "static/js/main.f584eae4.js"
+  ]
+}
